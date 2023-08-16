@@ -1,0 +1,8 @@
+{
+    "name": "container",
+    "dockerComposeFile": [
+        "../docker-compose.yml"
+    ],
+    "service": "vit-container",
+    "workspaceFolder": "/app",
+}

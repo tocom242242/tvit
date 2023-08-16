@@ -1,0 +1,7 @@
+version: '3'
+services:
+  vit-container:
+    build: .
+    volumes:
+      - ./:/app
+    tty: true

@@ -1,0 +1,4 @@
+/.benchmarks
+/.pytest_cache
+/.venv
+/data
